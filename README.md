@@ -9,7 +9,7 @@ Input data formatted like:
 
 ```[['I', 'am', 'Daniel', '\n', 'I', 'am', 'Sam', '\n', 'Sam', 'I', 'am', '\n'], ['That', 'Sam-I-am', '\n', ...]```
 
-The resulting generations after 200 epochs, without shuffling was:
+The following is the resulting generations after 200 epochs, without shuffling, and compared to the original lyrics, it appears to be somewhat new.
 
 ```Sam ! 
  If you will let me be , 
@@ -34,4 +34,5 @@ The resulting generations after 200 epochs, without shuffling was:
  I do not like green eggs and ham . 
  I do not like them , Sam-I-am . 
  I do not like green eggs and ham . 
- I do not like them ```
+ I do not like them 
+ ```
